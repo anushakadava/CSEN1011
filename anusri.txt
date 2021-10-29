@@ -1,0 +1,6 @@
+Algorith to two numbers.
+1.start.
+2.add two numbers.
+3.accept the nuumber.
+4.perform additiom to two numbers.
+5.stop.
